@@ -8,10 +8,6 @@ yo, DR
 
 :satisfied:dasdfadsfsda
 
-jonesa
-
 flo milli
-
-dgasdgjasdlkgjasdlkgj
 
 Jamaican 
