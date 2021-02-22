@@ -13,5 +13,4 @@ jonesa
 flo milli
 
 dgasdgjasdlkgjasdlkgj
-
-Jamaican 
+Guyanese
