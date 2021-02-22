@@ -6,8 +6,6 @@ yo, DR
 
 :smile: 
 
-:satisfied:dasdfadsfsda
-
 jonesa
 
 flo milli
