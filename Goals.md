@@ -1,1 +1,2 @@
 [ ] be a queen
+[ ] star
