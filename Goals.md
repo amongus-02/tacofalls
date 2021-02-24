@@ -2,6 +2,7 @@
 - [] be a queen
 - [] star
 - [] developer relations
-- [] Peace
+- [x] Peace
 - [] Positive Relationship 
 - [] Happiness
+
