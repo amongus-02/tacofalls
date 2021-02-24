@@ -21,23 +21,6 @@ Antiguan
 
 Jamaican 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 inspirational 
 
 Captain America
