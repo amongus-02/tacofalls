@@ -1,1 +1,1 @@
-[] be a queen
+[ ] be a queen
