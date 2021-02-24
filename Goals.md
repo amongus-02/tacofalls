@@ -2,5 +2,5 @@
 - [] be a queen
 - [] star
 - [] developer relations
-[] Peace
-[] Positive Relationship 
+- [] Peace
+- [] Positive Relationship 
