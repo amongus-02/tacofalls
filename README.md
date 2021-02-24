@@ -25,4 +25,3 @@ inspirational
 
 Captain America
 
-clean up!
