@@ -3,6 +3,6 @@
 - [] star
 - [] developer relations
 - [x] Peace
-- [] Positive Relationship 
+- [x] Positive Relationship 
 - [x] Happiness
 
