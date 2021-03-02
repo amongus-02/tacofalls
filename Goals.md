@@ -1,7 +1,7 @@
 # My goals
 - [ ] be a queen
 - [ ] star
-- [] developer relations
+- [ ] developer relations
 - [x] Peace
 - [x] Positive Relationship 
 - [x] Happiness
