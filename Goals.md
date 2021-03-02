@@ -1,5 +1,5 @@
 # My goals
-- [ ] be a queen
+- [x] be a queen
 - [x] star
 - [x] developer relations
 - [x] Peace
