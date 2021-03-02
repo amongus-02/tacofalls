@@ -5,5 +5,3 @@
 - [x] Peace
 - [x] Positive Relationship 
 - [x] Happiness
-- [ ] Not get fired
-
