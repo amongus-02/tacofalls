@@ -1,6 +1,6 @@
 # My goals
 - [] be a queen
-- [] star
+- [x] star
 - [] developer relations
 - [x] Peace
 - [x] Positive Relationship 
