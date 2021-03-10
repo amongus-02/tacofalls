@@ -1,3 +1,3 @@
 - [x] WandaVision
 - [x] First Take
-- [ ] 
+- [ ] Schitt's Creek
