@@ -7,3 +7,4 @@
 - [x] Happiness
 - [x] Granola
 - [ ] Clooney
+- [ ] Beauty
