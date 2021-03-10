@@ -3,7 +3,7 @@
 - [x] star
 - [x] developer relations
 - [x] Peace
-- [x] Positive Relationship 
+- [x] Positive
 - [x] Happiness
 - [x] Granola
 - [ ] Clooney
