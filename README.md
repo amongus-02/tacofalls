@@ -15,8 +15,6 @@ flo milli
 dgasdgjasdlkgjasdlkgj
 
 Guyanese
-
-
 Antiguan
 
 Jamaican 
