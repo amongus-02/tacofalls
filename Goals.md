@@ -6,4 +6,4 @@
 - [x] Positive Relationship 
 - [x] Happiness
 - [x] Granola
-- [ ] Clooney
+- [ x] Clooney
