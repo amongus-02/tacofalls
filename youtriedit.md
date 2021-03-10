@@ -1,3 +1,4 @@
 ## Favorite tv shows
-[] Snowfall
-[] Married at First Sight
+- [ ] Snowfall
+- [ ] Married at First Sight
+- [ ] All American
