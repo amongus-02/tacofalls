@@ -1,1 +1,3 @@
 -[ ] Tofu
+  -[ ] Teriyaki Tofu
+  -[ ] Buffalo Tofu
