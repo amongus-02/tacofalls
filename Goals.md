@@ -8,3 +8,4 @@
 - [x] Granola
 - [ ] Clooney
 - [ ] Beauty
+- [ ] Friends
