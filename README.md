@@ -21,9 +21,3 @@ Antiguan
 
 Jamaican 
 
-inspirational 
-
-Captain America
-
-Jake!!
-
