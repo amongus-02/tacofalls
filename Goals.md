@@ -6,6 +6,5 @@
 - [x] Positive Relationship 
 - [x] Happiness
 - [x] Granola
-- [ ] Clooney
 - [ ] Reverse Flash
 - [ ] Waje up
