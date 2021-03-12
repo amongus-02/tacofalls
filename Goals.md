@@ -8,4 +8,4 @@
 - [x] Granola
 - [ ] Clooney
 - [ ] Reverse Flash
-- [ ] Waje up
+- [ ] Wake up
