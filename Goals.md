@@ -8,4 +8,4 @@
 - [x] Granola
 
 - [ ] Reverse Flash
-- [ ] Wake up
+- [x] Wake up
