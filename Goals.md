@@ -7,5 +7,5 @@
 - [x] Happiness
 - [x] Granola
 
-- [ x] Reverse Flash
+- [x] Reverse Flash
 - [x] Wake up
