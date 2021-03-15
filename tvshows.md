@@ -2,4 +2,4 @@
 - [x] First Take
 - [ ] Married at First Sight
 - [ ] Family
-- [ x] Schitt's Creek
+- [x] Schitt's Creek
