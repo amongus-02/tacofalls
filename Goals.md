@@ -12,4 +12,4 @@
 - [x] Homework
 - [x] Code the best
 - [x] Own a boat
-- [ ] Be famous
+- [ x] Be famous
