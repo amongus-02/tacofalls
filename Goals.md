@@ -11,4 +11,4 @@
 - [x] Wake up
 - [x] Homework
 - [x] Code the best
-- [ x] Own a boat
+- [x] Own a boat
