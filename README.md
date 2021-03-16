@@ -4,5 +4,3 @@
 
 yo, DR 
 
-:smile: 
-:)
