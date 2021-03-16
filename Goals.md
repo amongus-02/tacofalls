@@ -11,3 +11,4 @@
 - [x] Wake up
 - [x] Homework
 - [x] Code the best
+- [ ] Own
