@@ -9,4 +9,4 @@
 
 - [x] Reverse Flash
 - [x] Wake up
-- [x ] Homework
+- [x] Homework
