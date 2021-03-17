@@ -3,6 +3,8 @@ bad
 collaborative
 XZCXZC
 
+open
+
 nothing going 
 
 bothering me
