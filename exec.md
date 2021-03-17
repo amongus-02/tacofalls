@@ -5,3 +5,4 @@ portfolio
 stat
 cor
 busy
+PRETTY SMART
