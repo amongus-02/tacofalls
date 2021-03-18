@@ -21,3 +21,5 @@ lkd
 ronnie
 
 skdlfgjdlkfgjslkdgjfsldkgfjsldkg
+
+25 pts
