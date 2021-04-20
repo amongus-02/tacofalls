@@ -14,3 +14,4 @@
 - [x] Own a boat
 - [x] Be not famous
 - [ ] Advocate
+- [ ] Remove mute button
