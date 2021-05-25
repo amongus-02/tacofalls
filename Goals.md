@@ -13,4 +13,4 @@
 - [x] Code the best
 - [x] Own a boat
 - [x] Be not famous
-- [ ] Advocate
+- [ ] Dev Advocate
